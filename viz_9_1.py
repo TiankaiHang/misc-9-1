@@ -1,6 +1,4 @@
 # ref: https://blog.csdn.net/bingningning/article/details/79807345
-
-
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -71,7 +69,6 @@ for i in range(len(DATA)):
                 va='bottom',
                 fontsize=8,
             )
-
 
     plt.xticks(np.array([0, 90, 180]) + 20, ["0", "20", "40"])
     plt.ylim(0, 100)

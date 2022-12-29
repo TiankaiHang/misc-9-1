@@ -1,2 +1,1 @@
-# misc-9-1
-misc
+# Some misc snippets
